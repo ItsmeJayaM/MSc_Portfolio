@@ -10,6 +10,7 @@ This repository contains academic and team projects completed during my BSc and 
 | **Engine Ballistics** | Space Propulsion | Characterizing the ballistics of a solid rocket motor. |
 | **GE9X** | Aerospace Propulsion | Inlet-to-outlet characterization and analysis of the GE9X engine. |
 | **GNC** | GNC | TMPC control for cubesat docking via MATLAB SIMULINK |
+| **Machine Learning** | Machine learning | Matlab and Python projects using RL PPO and LSTM. |
 | **Mission Analysis** | Mission Analysis | Team project focused on calculating and optimizing orbital transfers. |
 | **Orbital Mechanics** | Orbital Mechanics | Interplanetary transfer design with flyby maneuvers and Earth orbit perturbation study. |
 | **Space Propulsion** | Space Propulsion | Research and performance characterization of various propulsion systems for CubeSats. |
